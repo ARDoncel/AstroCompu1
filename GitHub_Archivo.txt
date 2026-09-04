@@ -1,0 +1,9 @@
+Este es mi primer archivo.txt 
+Estoy aprendiendo a gestionar archivos y mis emociones con GitHub.
+
+El cielo 
+Un lienzo azul de infinito misterio,
+donde flotan suaves nubes, 
+donde bailan el Sol y la Luna,
+parece asintótico en su celeste belleza
+reducido a cota de la inconmensurable grandeza.
